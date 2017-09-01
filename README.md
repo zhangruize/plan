@@ -1,0 +1,2 @@
+- 研究apiblueprint，甚至提出中文网站或中文翻译计划，推广apiblueprint。
+- 研究安卓组件化demo，研究其公共层的使用。
